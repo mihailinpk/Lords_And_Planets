@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lords_and_planets:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Lords_and_planets</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Lords_and_planets-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Lords_and_planets:war exploded" />
+    </root>
+  </artifact>
+</component>
