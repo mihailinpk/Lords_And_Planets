@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Lords_and_planets" target="11" />
+      <module name="Lords_and_planets" target="14" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

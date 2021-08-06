@@ -15,7 +15,7 @@
 	<name>Lords_and_planets</name>
 	<description>Учебный проект для освоения работы с PostgreSQL</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>14</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

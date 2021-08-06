@@ -45,10 +45,19 @@ public enum DatabaseAccessResult {
     /**
      * Связь не была удалена
      */
-    RELATION_WAS_NOT_DELETED;
+    RELATION_WAS_NOT_DELETED,
+    /**
+     * Прочие ошибки
+     */
+    OTHER_ERROR,
+    /**
+     * Исключение
+     */
+    EXCEPTION;
 
     @Override
     public String toString() {
         return String.valueOf(this.ordinal());
     }
+
 }
